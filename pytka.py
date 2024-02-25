@@ -1,2 +1,2 @@
-tupla=89
+tupla=('ananas','sanana')
 print(tupla)
