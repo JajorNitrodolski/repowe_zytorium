@@ -1,2 +1,2 @@
 tupla=('ananas','sanana')
-print(tupla)
+print(tupla[0])
